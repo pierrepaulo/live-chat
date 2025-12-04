@@ -1,0 +1,16 @@
+node_modules
+dist
+generated
+src/generated
+coverage
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+tsconfig.tsbuildinfo
+.DS_Store
+generated/
+src/generated/
